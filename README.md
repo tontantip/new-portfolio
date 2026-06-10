@@ -2,6 +2,18 @@
 
 This is a modern, dark-themed portfolio website for "New Tontan Tipakun", built with React, TypeScript, and Vite.
 
+## Tech Stack
+* **Framework:** React (Vite)
+* **Language:** TypeScript
+* **Styling:** Vanilla CSS (Dark/Light mode support)
+* **Fonts:** JetBrains Mono
+
+## Features
+* Modern, responsive design
+* Dark/Light mode toggle
+* About section, Project showcase, and Contact information
+* Automated deployment to GitHub Pages
+
 ## Deployment
 
 This project is configured to deploy to GitHub Pages from the `docs` folder. The deployment is automated via GitHub Actions on every push to the `main` branch.
